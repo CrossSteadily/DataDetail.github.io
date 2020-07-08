@@ -1,5 +1,5 @@
 {
-	"bListds":["mqqapi","mqqwpa","mqq","wechat","weixin","alipay","alipays","alipayshare","mqppwallet"],
+	"bListds":["mqqapi","mqqwpa","mqq","wechat","weixin","mqppwallet"],
 	"bSastds":"0",
 	"bTbdmao":"0",
 	"bJtgdex":"1",
