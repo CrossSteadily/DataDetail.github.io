@@ -2,7 +2,7 @@
 	"bListds":["mqqapi","mqqwpa","mqq","wechat","weixin","alipay","alipays","alipayshare","mqppwallet"],
 	"bSastds":"0",
 	"bTbdmao":"0",
-	"bJtgdex":"0",
+	"bJtgdex":"1",
 	"bUgqndm":"https://www.hd321.cc/main/home",
 	"bSaxrbt":"1",
 	"bTalistp":["360"],
